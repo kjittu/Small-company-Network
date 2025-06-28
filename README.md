@@ -1,2 +1,2 @@
-# Small-company-Network
-Configureing the network in a company Description
+#  Cisco configureing the networks
+Configureing the netwoks in the cisco packet tracer
